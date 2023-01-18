@@ -15,7 +15,7 @@ const PostComponent = () => {
       <CardHeader
         avatar={
           <Avatar sx={{ bgcolor: "red" }} aria-label="recipe">
-            R
+            C
           </Avatar>
         }
         action={
