@@ -34,9 +34,9 @@ const PostComponent = () => {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          This impressive paella is a perfect party dish and a fun meal to cook
-          together with your guests. Add 1 cup of frozen peas along with the mussels,
-          if you like.
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum earum aspernatur odit aliquam modi pariatur id obcaecati distinctio, 
+          magni eum quibusdam velit possimus, ducimus, quam sapiente laboriosam molestiae consequuntur sed nostrum! Odio nobis expedita, 
+          nisi dolores fugit inventore provident, perferendis dolorem odit reprehenderit recusandae asperiores saepe distinctio earum consectetur nam?
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
@@ -80,9 +80,7 @@ const PostComponent = () => {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          This impressive paella is a perfect party dish and a fun meal to cook
-          together with your guests. Add 1 cup of frozen peas along with the mussels,
-          if you like.
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ratione deserunt quibusdam ut sequi alias vero modi enim. Saepe, enim!
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
